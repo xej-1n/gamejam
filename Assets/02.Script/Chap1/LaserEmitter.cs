@@ -1,9 +1,10 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class LaserEmitter : MonoBehaviour
 {
     [Header("레이저 설정")]
-    public float maxDistance = 50f;
+    public float maxDistance = 100f;
     public LayerMask obstacleLayer;
 
     private LineRenderer lineRenderer;
@@ -20,39 +21,52 @@ public class LaserEmitter : MonoBehaviour
     void Update()
     {
         ShootLaser();
+        Debug.DrawRay(transform.position, Vector3.down * maxDistance, Color.red);
     }
 
     void ShootLaser()
     {
-        if (lineRenderer == null) return;
-
-        lineRenderer.SetPosition(0, transform.position);
-
         RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, maxDistance, obstacleLayer);
+
+        Vector3 endPoint;
 
         if (hit.collider != null)
         {
-            lineRenderer.SetPosition(1, hit.point);
+            endPoint = hit.point;
+            if (hit.collider.CompareTag("Player") || hit.collider.gameObject.layer == LayerMask.NameToLayer("Die"))
+            {
+                RestartScene();
+            }
         }
         else
         {
-            Vector3 endPosition = transform.position + (Vector3.down * maxDistance);
-            lineRenderer.SetPosition(1, endPosition);
+            endPoint = transform.position + (Vector3.down * maxDistance);
+        }
+
+        if (lineRenderer != null)
+        {
+            lineRenderer.SetPosition(0, transform.position);
+            lineRenderer.SetPosition(1, endPoint);
         }
     }
 
     private void OnDrawGizmos()
     {
-        RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, maxDistance, obstacleLayer);
-
         Gizmos.color = Color.magenta;
-        if (hit.collider != null)
+        Gizmos.DrawRay(transform.position, Vector3.down * maxDistance);
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Player"))
         {
-            Gizmos.DrawLine(transform.position, hit.point);
+            RestartScene();
         }
-        else
-        {
-            Gizmos.DrawRay(transform.position, Vector3.down * maxDistance);
-        }
+    }
+
+    void RestartScene()
+    {
+        Scene currentScene = SceneManager.GetActiveScene();
+        SceneManager.LoadScene(currentScene.name);
     }
 }

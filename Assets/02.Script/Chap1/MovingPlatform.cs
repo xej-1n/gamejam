@@ -20,20 +20,28 @@ public class MovingPlatform : MonoBehaviour
 
         float currentOffset = transform.position.x - startPosition.x;
 
-        if (currentOffset >= moveDistance)
+        if (currentOffset >= moveDistance && direction == 1)
         {
             direction = -1;
         }
-        else if (currentOffset <= -moveDistance)
+        else if (currentOffset <= -moveDistance && direction == -1)
         {
             direction = 1;
         }
     }
+
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Player"))
         {
             collision.transform.SetParent(transform);
+            return;
+        }
+
+        Vector2 contactNormal = collision.contacts[0].normal;
+        if (Mathf.Abs(contactNormal.x) > 0.5f)
+        {
+            direction *= -1;
         }
     }
 
@@ -41,7 +49,10 @@ public class MovingPlatform : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            collision.transform.SetParent(null);
+            if (gameObject.activeInHierarchy && collision.gameObject.activeInHierarchy)
+            {
+                collision.transform.SetParent(null);
+            }
         }
     }
 }
