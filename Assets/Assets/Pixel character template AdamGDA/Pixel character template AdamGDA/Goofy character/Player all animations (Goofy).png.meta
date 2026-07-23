@@ -1,0 +1,3159 @@
+fileFormatVersion: 2
+guid: b03e2fcdbc289184fa5307ce4ead6101
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1832901565263625412
+    second: Player all animations (Goofy)_0
+  - first:
+      213: -7575446319047567854
+    second: Player all animations (Goofy)_1
+  - first:
+      213: 8657632541518435220
+    second: Player all animations (Goofy)_2
+  - first:
+      213: -3607330931698282140
+    second: Player all animations (Goofy)_3
+  - first:
+      213: 860928694743390301
+    second: Player all animations (Goofy)_4
+  - first:
+      213: 2192328484675509271
+    second: Player all animations (Goofy)_5
+  - first:
+      213: -6617800005879506595
+    second: Player all animations (Goofy)_6
+  - first:
+      213: 4939089245805969984
+    second: Player all animations (Goofy)_7
+  - first:
+      213: -7253052817128828693
+    second: Player all animations (Goofy)_8
+  - first:
+      213: 7039254091827879992
+    second: Player all animations (Goofy)_9
+  - first:
+      213: -5590450908875136808
+    second: Player all animations (Goofy)_10
+  - first:
+      213: 1427483926225914868
+    second: Player all animations (Goofy)_11
+  - first:
+      213: -9074459405129065679
+    second: Player all animations (Goofy)_12
+  - first:
+      213: -3936278872761573460
+    second: Player all animations (Goofy)_13
+  - first:
+      213: -4954335004217244013
+    second: Player all animations (Goofy)_14
+  - first:
+      213: -5225337690328447773
+    second: Player all animations (Goofy)_15
+  - first:
+      213: 1009137176224746986
+    second: Player all animations (Goofy)_16
+  - first:
+      213: 749698381785197887
+    second: Player all animations (Goofy)_17
+  - first:
+      213: 7614626709591453417
+    second: Player all animations (Goofy)_18
+  - first:
+      213: 5597528437288488318
+    second: Player all animations (Goofy)_19
+  - first:
+      213: 4995420444464320884
+    second: Player all animations (Goofy)_20
+  - first:
+      213: 8302584434285629286
+    second: Player all animations (Goofy)_21
+  - first:
+      213: -4477033191151440473
+    second: Player all animations (Goofy)_22
+  - first:
+      213: 8849579030156882987
+    second: Player all animations (Goofy)_23
+  - first:
+      213: 1008641243122800812
+    second: Player all animations (Goofy)_24
+  - first:
+      213: 7231999720845720169
+    second: Player all animations (Goofy)_25
+  - first:
+      213: -1807331569664930768
+    second: Player all animations (Goofy)_26
+  - first:
+      213: -126005796125656028
+    second: Player all animations (Goofy)_27
+  - first:
+      213: 2313632609251978026
+    second: Player all animations (Goofy)_28
+  - first:
+      213: 2143171690374324323
+    second: Player all animations (Goofy)_29
+  - first:
+      213: -6662086135157414388
+    second: Player all animations (Goofy)_30
+  - first:
+      213: 1753920203074546064
+    second: Player all animations (Goofy)_31
+  - first:
+      213: 3569544562376894275
+    second: Player all animations (Goofy)_32
+  - first:
+      213: 1135570766862886433
+    second: Player all animations (Goofy)_33
+  - first:
+      213: -6736082935352204084
+    second: Player all animations (Goofy)_34
+  - first:
+      213: 1738796123839229055
+    second: Player all animations (Goofy)_35
+  - first:
+      213: 8674656278901159770
+    second: Player all animations (Goofy)_36
+  - first:
+      213: -7169067161510462564
+    second: Player all animations (Goofy)_37
+  - first:
+      213: 5324203003751312714
+    second: Player all animations (Goofy)_38
+  - first:
+      213: 7903327409880900593
+    second: Player all animations (Goofy)_39
+  - first:
+      213: -3717822505316768807
+    second: Player all animations (Goofy)_40
+  - first:
+      213: 3732181665936680203
+    second: Player all animations (Goofy)_41
+  - first:
+      213: 5564713780402447074
+    second: Player all animations (Goofy)_42
+  - first:
+      213: 101351501876002041
+    second: Player all animations (Goofy)_43
+  - first:
+      213: 7916481598636636481
+    second: Player all animations (Goofy)_44
+  - first:
+      213: -584418022806302124
+    second: Player all animations (Goofy)_45
+  - first:
+      213: -3059120737379835202
+    second: Player all animations (Goofy)_46
+  - first:
+      213: -4696912148555004136
+    second: Player all animations (Goofy)_47
+  - first:
+      213: 517955064520567832
+    second: Player all animations (Goofy)_48
+  - first:
+      213: 3236200449196748899
+    second: Player all animations (Goofy)_49
+  - first:
+      213: -8785239706368893495
+    second: Player all animations (Goofy)_50
+  - first:
+      213: 8569807540743397335
+    second: Player all animations (Goofy)_51
+  - first:
+      213: -4894499483253994846
+    second: Player all animations (Goofy)_52
+  - first:
+      213: 6625730603475348494
+    second: Player all animations (Goofy)_53
+  - first:
+      213: -254522716149548362
+    second: Player all animations (Goofy)_54
+  - first:
+      213: 5377618586966342617
+    second: Player all animations (Goofy)_55
+  - first:
+      213: 3714730559235993205
+    second: Player all animations (Goofy)_56
+  - first:
+      213: 5029608218715399351
+    second: Player all animations (Goofy)_57
+  - first:
+      213: 8263026793461479782
+    second: Player all animations (Goofy)_58
+  - first:
+      213: 6001009408410706806
+    second: Player all animations (Goofy)_59
+  - first:
+      213: 8872867395378794546
+    second: Player all animations (Goofy)_60
+  - first:
+      213: 4190070057274179619
+    second: Player all animations (Goofy)_61
+  - first:
+      213: -6718255270850036165
+    second: Player all animations (Goofy)_62
+  - first:
+      213: -2798798090735085566
+    second: Player all animations (Goofy)_63
+  - first:
+      213: 2821559066915784610
+    second: Player all animations (Goofy)_64
+  - first:
+      213: -9007838530843181905
+    second: Player all animations (Goofy)_65
+  - first:
+      213: -6698069861960268676
+    second: Player all animations (Goofy)_66
+  - first:
+      213: -5721209051087433344
+    second: Player all animations (Goofy)_67
+  - first:
+      213: 5975644626197258224
+    second: Player all animations (Goofy)_68
+  - first:
+      213: 7339904622983139616
+    second: Player all animations (Goofy)_69
+  - first:
+      213: -1513634559004932787
+    second: Player all animations (Goofy)_70
+  - first:
+      213: 2518842967006835744
+    second: Player all animations (Goofy)_71
+  - first:
+      213: 7528613012254855602
+    second: Player all animations (Goofy)_72
+  - first:
+      213: 7337681285214271254
+    second: Player all animations (Goofy)_73
+  - first:
+      213: 3078142908810056827
+    second: Player all animations (Goofy)_74
+  - first:
+      213: 5016400746966910202
+    second: Player all animations (Goofy)_75
+  - first:
+      213: 5833242736056392959
+    second: Player all animations (Goofy)_76
+  - first:
+      213: -1776028893164019530
+    second: Player all animations (Goofy)_77
+  - first:
+      213: 2931747975239904133
+    second: Player all animations (Goofy)_78
+  - first:
+      213: -9089282297589819638
+    second: Player all animations (Goofy)_79
+  - first:
+      213: -8337464421473579905
+    second: Player all animations (Goofy)_80
+  - first:
+      213: -8594460332543552849
+    second: Player all animations (Goofy)_81
+  - first:
+      213: -695887539786924351
+    second: Player all animations (Goofy)_82
+  - first:
+      213: -899074079979863098
+    second: Player all animations (Goofy)_83
+  - first:
+      213: 6154431323899131626
+    second: Player all animations (Goofy)_84
+  - first:
+      213: 7177450727360895469
+    second: Player all animations (Goofy)_85
+  - first:
+      213: -233838931273192352
+    second: Player all animations (Goofy)_86
+  - first:
+      213: 6886328713137231332
+    second: Player all animations (Goofy)_87
+  - first:
+      213: -758494186778573169
+    second: Player all animations (Goofy)_88
+  - first:
+      213: 8406832315261195016
+    second: Player all animations (Goofy)_89
+  - first:
+      213: -4568537352046429619
+    second: Player all animations (Goofy)_90
+  - first:
+      213: 2862398304651273796
+    second: Player all animations (Goofy)_91
+  - first:
+      213: -137053180920195372
+    second: Player all animations (Goofy)_92
+  - first:
+      213: -8472691286315164708
+    second: Player all animations (Goofy)_93
+  - first:
+      213: -4877761852416912876
+    second: Player all animations (Goofy)_94
+  - first:
+      213: 5741515665679953494
+    second: Player all animations (Goofy)_95
+  - first:
+      213: -7596112083145745014
+    second: Player all animations (Goofy)_96
+  - first:
+      213: 6274286216698322202
+    second: Player all animations (Goofy)_97
+  - first:
+      213: -6792984082843931018
+    second: Player all animations (Goofy)_98
+  - first:
+      213: 5835431709158720821
+    second: Player all animations (Goofy)_99
+  - first:
+      213: -4871956790549224210
+    second: Player all animations (Goofy)_100
+  - first:
+      213: -5617060208290345979
+    second: Player all animations (Goofy)_101
+  - first:
+      213: 3218963811507643640
+    second: Player all animations (Goofy)_102
+  - first:
+      213: -8487757205324300254
+    second: Player all animations (Goofy)_103
+  - first:
+      213: -184276595883213282
+    second: Player all animations (Goofy)_104
+  - first:
+      213: -6433672813179028794
+    second: Player all animations (Goofy)_105
+  - first:
+      213: 5213296325754319635
+    second: Player all animations (Goofy)_106
+  - first:
+      213: -4361840810520072015
+    second: Player all animations (Goofy)_107
+  - first:
+      213: 8501803317061995362
+    second: Player all animations (Goofy)_108
+  - first:
+      213: 4021231711213770343
+    second: Player all animations (Goofy)_109
+  - first:
+      213: 9069573095496510259
+    second: Player all animations (Goofy)_110
+  - first:
+      213: -4294998937293598100
+    second: Player all animations (Goofy)_111
+  - first:
+      213: -4690160437795498646
+    second: Player all animations (Goofy)_112
+  - first:
+      213: 5683386584485958529
+    second: Player all animations (Goofy)_113
+  - first:
+      213: -6139703987198471639
+    second: Player all animations (Goofy)_114
+  - first:
+      213: 9029251989663913225
+    second: Player all animations (Goofy)_115
+  - first:
+      213: -8389146555608212927
+    second: Player all animations (Goofy)_116
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33443eccb93096e0800000000000000
+      internalID: -1832901565263625412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216112295bb9ed690800000000000000
+      internalID: -7575446319047567854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49391192de6162870800000000000000
+      internalID: 8657632541518435220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46158dc41af20fdc0800000000000000
+      internalID: -3607330931698282140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_4
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58de132612a2fb00800000000000000
+      internalID: 860928694743390301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_5
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cdd003427bc6e10800000000000000
+      internalID: 2192328484675509271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_6
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5959fe05f9d824a0800000000000000
+      internalID: -6617800005879506595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_7
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 0
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042873a208b2b8440800000000000000
+      internalID: 4939089245805969984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_8
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 0
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0d3e124eaf75b90800000000000000
+      internalID: -7253052817128828693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830ad1b0d4470b160800000000000000
+      internalID: 7039254091827879992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_10
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 0
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0ec32948aba62b0800000000000000
+      internalID: -5590450908875136808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_11
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 0
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb864951117fc310800000000000000
+      internalID: 1427483926225914868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_12
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 0
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b5494ef3b011280800000000000000
+      internalID: -9074459405129065679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_13
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 0
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafdb2478378f59c0800000000000000
+      internalID: -3936278872761573460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_14
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 0
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3960957109aae3bb0800000000000000
+      internalID: -4954335004217244013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_15
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 0
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e443804e0fdb77b0800000000000000
+      internalID: -5225337690328447773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_16
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 0
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed44864aec210e00800000000000000
+      internalID: 1009137176224746986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_17
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 0
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3dedf6c4b6776a00800000000000000
+      internalID: 749698381785197887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_18
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 0
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee666af5a69ca960800000000000000
+      internalID: 7614626709591453417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_19
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 0
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d4abce47a6ead40800000000000000
+      internalID: 5597528437288488318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_20
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 0
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47115086d6c435540800000000000000
+      internalID: 4995420444464320884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_21
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 0
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f4843dd84b83370800000000000000
+      internalID: 8302584434285629286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_22
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 0
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ade8c178026ed1c0800000000000000
+      internalID: -4477033191151440473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_23
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 0
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b243f38ad3500da70800000000000000
+      internalID: 8849579030156882987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_24
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 0
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8942addd96ffd00800000000000000
+      internalID: 1008641243122800812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_25
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 0
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96abbb8ed693d5460800000000000000
+      internalID: 7231999720845720169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_26
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 0
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cc5c653811be6e0800000000000000
+      internalID: -1807331569664930768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_27
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 0
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c3a426566504ef0800000000000000
+      internalID: -126005796125656028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_28
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 0
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b6937999cab1020800000000000000
+      internalID: 2313632609251978026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_29
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 0
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3606f612c431ebd10800000000000000
+      internalID: 2143171690374324323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_30
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 0
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0623e215f38b83a0800000000000000
+      internalID: -6662086135157414388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_31
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 0
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099a3acc12d275810800000000000000
+      internalID: 1753920203074546064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_32
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 0
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347e6620ed1998130800000000000000
+      internalID: 3569544562376894275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_33
+      rect:
+        serializedVersion: 2
+        x: 3202
+        y: 0
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1262e20989b52cf00800000000000000
+      internalID: 1135570766862886433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_34
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 0
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4e2c47240a482a0800000000000000
+      internalID: -6736082935352204084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_35
+      rect:
+        serializedVersion: 2
+        x: 3394
+        y: 0
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c6342bcd1712810800000000000000
+      internalID: 1738796123839229055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_36
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 0
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57f384ece1926870800000000000000
+      internalID: 8674656278901159770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_37
+      rect:
+        serializedVersion: 2
+        x: 3587
+        y: 0
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b3043666b528c90800000000000000
+      internalID: -7169067161510462564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_38
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 0
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d2aae4c6e53e940800000000000000
+      internalID: 5324203003751312714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_39
+      rect:
+        serializedVersion: 2
+        x: 3776
+        y: 0
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f32f89d7624ead60800000000000000
+      internalID: 7903327409880900593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_40
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 0
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d324a81124a76cc0800000000000000
+      internalID: -3717822505316768807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_41
+      rect:
+        serializedVersion: 2
+        x: 3963
+        y: 0
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05a163837f5bc330800000000000000
+      internalID: 3732181665936680203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_42
+      rect:
+        serializedVersion: 2
+        x: 4065
+        y: 0
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2eb9d33b5d93d40800000000000000
+      internalID: 5564713780402447074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_43
+      rect:
+        serializedVersion: 2
+        x: 4162
+        y: 0
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc75ca67a2186100800000000000000
+      internalID: 101351501876002041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_44
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 0
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14937a5121efcdd60800000000000000
+      internalID: 7916481598636636481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_45
+      rect:
+        serializedVersion: 2
+        x: 4355
+        y: 0
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4525b4697eab3e7f0800000000000000
+      internalID: -584418022806302124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_46
+      rect:
+        serializedVersion: 2
+        x: 4449
+        y: 0
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2a173b5e1db85d0800000000000000
+      internalID: -3059120737379835202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_47
+      rect:
+        serializedVersion: 2
+        x: 4546
+        y: 0
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8178924494731deb0800000000000000
+      internalID: -4696912148555004136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_48
+      rect:
+        serializedVersion: 2
+        x: 4640
+        y: 0
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81cec5e0365203700800000000000000
+      internalID: 517955064520567832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_49
+      rect:
+        serializedVersion: 2
+        x: 4738
+        y: 0
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360f454992b49ec20800000000000000
+      internalID: 3236200449196748899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_50
+      rect:
+        serializedVersion: 2
+        x: 4833
+        y: 0
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd9933880f841680800000000000000
+      internalID: -8785239706368893495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_51
+      rect:
+        serializedVersion: 2
+        x: 4931
+        y: 0
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df5973bd821ee670800000000000000
+      internalID: 8569807540743397335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_52
+      rect:
+        serializedVersion: 2
+        x: 5018
+        y: 0
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa0053f6ae331cb0800000000000000
+      internalID: -4894499483253994846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_53
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 24
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c259511e253fb50800000000000000
+      internalID: 6625730603475348494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_54
+      rect:
+        serializedVersion: 2
+        x: 5123
+        y: 0
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba73ac20f0c77cf0800000000000000
+      internalID: -254522716149548362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_55
+      rect:
+        serializedVersion: 2
+        x: 5217
+        y: 0
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbbaadec9321aa40800000000000000
+      internalID: 5377618586966342617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_56
+      rect:
+        serializedVersion: 2
+        x: 5314
+        y: 0
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57eac8b13cf5d8330800000000000000
+      internalID: 3714730559235993205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_57
+      rect:
+        serializedVersion: 2
+        x: 5412
+        y: 0
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4aae3e602ccc540800000000000000
+      internalID: 5029608218715399351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_58
+      rect:
+        serializedVersion: 2
+        x: 5509
+        y: 0
+        width: 21
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6697ec9d61b2ca270800000000000000
+      internalID: 8263026793461479782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_59
+      rect:
+        serializedVersion: 2
+        x: 5597
+        y: 0
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673e812234ed74350800000000000000
+      internalID: 6001009408410706806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_60
+      rect:
+        serializedVersion: 2
+        x: 5693
+        y: 0
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230d2b8b2e1c22b70800000000000000
+      internalID: 8872867395378794546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_61
+      rect:
+        serializedVersion: 2
+        x: 5789
+        y: 0
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32004d3648e162a30800000000000000
+      internalID: 4190070057274179619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_62
+      rect:
+        serializedVersion: 2
+        x: 5887
+        y: 0
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e769e0d66f3c2a0800000000000000
+      internalID: -6718255270850036165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_63
+      rect:
+        serializedVersion: 2
+        x: 5971
+        y: 0
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20891b317fba829d0800000000000000
+      internalID: -2798798090735085566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_64
+      rect:
+        serializedVersion: 2
+        x: 6943
+        y: 0
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a74c48a501382720800000000000000
+      internalID: 2821559066915784610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_65
+      rect:
+        serializedVersion: 2
+        x: 7041
+        y: 0
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facf30fe49abdf280800000000000000
+      internalID: -9007838530843181905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_66
+      rect:
+        serializedVersion: 2
+        x: 7140
+        y: 0
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74cb1dc2fcab03a0800000000000000
+      internalID: -6698069861960268676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_67
+      rect:
+        serializedVersion: 2
+        x: 7237
+        y: 0
+        width: 20
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0811f282eae2a90b0800000000000000
+      internalID: -5721209051087433344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_68
+      rect:
+        serializedVersion: 2
+        x: 7324
+        y: 0
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff95709021cde250800000000000000
+      internalID: 5975644626197258224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_69
+      rect:
+        serializedVersion: 2
+        x: 7418
+        y: 0
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021582abd549cd560800000000000000
+      internalID: 7339904622983139616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_70
+      rect:
+        serializedVersion: 2
+        x: 7518
+        y: 2
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4581ce536d7efae0800000000000000
+      internalID: -1513634559004932787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_71
+      rect:
+        serializedVersion: 2
+        x: 7611
+        y: 0
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024fe65455ab4f220800000000000000
+      internalID: 2518842967006835744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_72
+      rect:
+        serializedVersion: 2
+        x: 7710
+        y: 0
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b195d675a10b7860800000000000000
+      internalID: 7528613012254855602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_73
+      rect:
+        serializedVersion: 2
+        x: 7808
+        y: 0
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6177a30904ea4d560800000000000000
+      internalID: 7337681285214271254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_74
+      rect:
+        serializedVersion: 2
+        x: 7898
+        y: 1
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74d287baa2c7ba20800000000000000
+      internalID: 3078142908810056827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_75
+      rect:
+        serializedVersion: 2
+        x: 7993
+        y: 0
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af487fdb6e5dd9540800000000000000
+      internalID: 5016400746966910202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_76
+      rect:
+        serializedVersion: 2
+        x: 8091
+        y: 0
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcd443dc57d3f050800000000000000
+      internalID: 5833242736056392959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_77
+      rect:
+        serializedVersion: 2
+        x: 8185
+        y: 0
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0e028a1274a57e0800000000000000
+      internalID: -1776028893164019530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_78
+      rect:
+        serializedVersion: 2
+        x: 8287
+        y: 2
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b252b1049afa820800000000000000
+      internalID: 2931747975239904133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_79
+      rect:
+        serializedVersion: 2
+        x: 8378
+        y: 0
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0799ec48e16cd180800000000000000
+      internalID: -9089282297589819638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_80
+      rect:
+        serializedVersion: 2
+        x: 8477
+        y: 0
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c0c9e48406b4c80800000000000000
+      internalID: -8337464421473579905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_81
+      rect:
+        serializedVersion: 2
+        x: 8578
+        y: 0
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa25e8aecd75ab880800000000000000
+      internalID: -8594460332543552849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_82
+      rect:
+        serializedVersion: 2
+        x: 8669
+        y: 7
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce316338f5b756f0800000000000000
+      internalID: -695887539786924351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_83
+      rect:
+        serializedVersion: 2
+        x: 8756
+        y: 27
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c30a0443e8d583f0800000000000000
+      internalID: -899074079979863098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_84
+      rect:
+        serializedVersion: 2
+        x: 8853
+        y: 40
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae67b877eaee86550800000000000000
+      internalID: 6154431323899131626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_85
+      rect:
+        serializedVersion: 2
+        x: 8957
+        y: 29
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de91735a86d6b9360800000000000000
+      internalID: 7177450727360895469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_86
+      rect:
+        serializedVersion: 2
+        x: 9055
+        y: 24
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cedce1bbc31ccf0800000000000000
+      internalID: -233838931273192352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_87
+      rect:
+        serializedVersion: 2
+        x: 9155
+        y: 14
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e51e11ba77219f50800000000000000
+      internalID: 6886328713137231332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_88
+      rect:
+        serializedVersion: 2
+        x: 9252
+        y: 0
+        width: 25
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f864dd84e894975f0800000000000000
+      internalID: -758494186778573169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_89
+      rect:
+        serializedVersion: 2
+        x: 9350
+        y: 0
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8031b6d03711ba470800000000000000
+      internalID: 8406832315261195016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_90
+      rect:
+        serializedVersion: 2
+        x: 9442
+        y: 0
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a3b24cb7b4990c0800000000000000
+      internalID: -4568537352046429619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_91
+      rect:
+        serializedVersion: 2
+        x: 9533
+        y: 0
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4466b6aa71849b720800000000000000
+      internalID: 2862398304651273796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_92
+      rect:
+        serializedVersion: 2
+        x: 9620
+        y: 0
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d61aebabd6191ef0800000000000000
+      internalID: -137053180920195372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_93
+      rect:
+        serializedVersion: 2
+        x: 9717
+        y: 0
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb13a35a24fa6a80800000000000000
+      internalID: -8472691286315164708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_94
+      rect:
+        serializedVersion: 2
+        x: 9821
+        y: 0
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4121dbf4075be4cb0800000000000000
+      internalID: -4877761852416912876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_95
+      rect:
+        serializedVersion: 2
+        x: 9919
+        y: 0
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ea13df316fdaf40800000000000000
+      internalID: 5741515665679953494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_96
+      rect:
+        serializedVersion: 2
+        x: 10019
+        y: 0
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d9b0a6e40359690800000000000000
+      internalID: -7596112083145745014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_97
+      rect:
+        serializedVersion: 2
+        x: 10116
+        y: 0
+        width: 25
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1dde6d421eb21750800000000000000
+      internalID: 6274286216698322202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_98
+      rect:
+        serializedVersion: 2
+        x: 10214
+        y: 0
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e6439a7f87ab1a0800000000000000
+      internalID: -6792984082843931018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_99
+      rect:
+        serializedVersion: 2
+        x: 10306
+        y: 1
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535c477d83e9bf050800000000000000
+      internalID: 5835431709158720821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_100
+      rect:
+        serializedVersion: 2
+        x: 10402
+        y: 1
+        width: 26
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4e24a9c15536cb0800000000000000
+      internalID: -4871956790549224210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_101
+      rect:
+        serializedVersion: 2
+        x: 10498
+        y: 0
+        width: 26
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c4fd240813c02b0800000000000000
+      internalID: -5617060208290345979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_102
+      rect:
+        serializedVersion: 2
+        x: 10594
+        y: 0
+        width: 26
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f420c1288e0cac20800000000000000
+      internalID: 3218963811507643640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_103
+      rect:
+        serializedVersion: 2
+        x: 10690
+        y: 1
+        width: 26
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22002e4bacd653a80800000000000000
+      internalID: -8487757205324300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_104
+      rect:
+        serializedVersion: 2
+        x: 10786
+        y: 1
+        width: 26
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e76f19961517df0800000000000000
+      internalID: -184276595883213282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_105
+      rect:
+        serializedVersion: 2
+        x: 10882
+        y: 1
+        width: 26
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca3069d9a007b6a0800000000000000
+      internalID: -6433672813179028794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_106
+      rect:
+        serializedVersion: 2
+        x: 10978
+        y: 0
+        width: 26
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3137f651369595840800000000000000
+      internalID: 5213296325754319635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_107
+      rect:
+        serializedVersion: 2
+        x: 11074
+        y: 0
+        width: 26
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0362294e0a773c0800000000000000
+      internalID: -4361840810520072015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_108
+      rect:
+        serializedVersion: 2
+        x: 6070
+        y: 0
+        width: 58
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bc7b782197cf570800000000000000
+      internalID: 8501803317061995362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_109
+      rect:
+        serializedVersion: 2
+        x: 6153
+        y: 0
+        width: 79
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766de6a9fe84ec730800000000000000
+      internalID: 4021231711213770343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_110
+      rect:
+        serializedVersion: 2
+        x: 6256
+        y: 0
+        width: 68
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b628d7da89ddd70800000000000000
+      internalID: 9069573095496510259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_111
+      rect:
+        serializedVersion: 2
+        x: 6356
+        y: 0
+        width: 62
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c625fefe8391564c0800000000000000
+      internalID: -4294998937293598100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_112
+      rect:
+        serializedVersion: 2
+        x: 6454
+        y: 0
+        width: 58
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65db9d6ee339eeb0800000000000000
+      internalID: -4690160437795498646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_113
+      rect:
+        serializedVersion: 2
+        x: 6550
+        y: 0
+        width: 58
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18391899cf17fde40800000000000000
+      internalID: 5683386584485958529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_114
+      rect:
+        serializedVersion: 2
+        x: 6646
+        y: 0
+        width: 58
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9225cf0d0c36bcaa0800000000000000
+      internalID: -6139703987198471639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_115
+      rect:
+        serializedVersion: 2
+        x: 6742
+        y: 0
+        width: 58
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905186778d85e4d70800000000000000
+      internalID: 9029251989663913225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player all animations (Goofy)_116
+      rect:
+        serializedVersion: 2
+        x: 6839
+        y: 0
+        width: 55
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ad740c7a3c39b80800000000000000
+      internalID: -8389146555608212927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Player all animations (Goofy)_0: -1832901565263625412
+      Player all animations (Goofy)_1: -7575446319047567854
+      Player all animations (Goofy)_10: -5590450908875136808
+      Player all animations (Goofy)_100: -4871956790549224210
+      Player all animations (Goofy)_101: -5617060208290345979
+      Player all animations (Goofy)_102: 3218963811507643640
+      Player all animations (Goofy)_103: -8487757205324300254
+      Player all animations (Goofy)_104: -184276595883213282
+      Player all animations (Goofy)_105: -6433672813179028794
+      Player all animations (Goofy)_106: 5213296325754319635
+      Player all animations (Goofy)_107: -4361840810520072015
+      Player all animations (Goofy)_108: 8501803317061995362
+      Player all animations (Goofy)_109: 4021231711213770343
+      Player all animations (Goofy)_11: 1427483926225914868
+      Player all animations (Goofy)_110: 9069573095496510259
+      Player all animations (Goofy)_111: -4294998937293598100
+      Player all animations (Goofy)_112: -4690160437795498646
+      Player all animations (Goofy)_113: 5683386584485958529
+      Player all animations (Goofy)_114: -6139703987198471639
+      Player all animations (Goofy)_115: 9029251989663913225
+      Player all animations (Goofy)_116: -8389146555608212927
+      Player all animations (Goofy)_12: -9074459405129065679
+      Player all animations (Goofy)_13: -3936278872761573460
+      Player all animations (Goofy)_14: -4954335004217244013
+      Player all animations (Goofy)_15: -5225337690328447773
+      Player all animations (Goofy)_16: 1009137176224746986
+      Player all animations (Goofy)_17: 749698381785197887
+      Player all animations (Goofy)_18: 7614626709591453417
+      Player all animations (Goofy)_19: 5597528437288488318
+      Player all animations (Goofy)_2: 8657632541518435220
+      Player all animations (Goofy)_20: 4995420444464320884
+      Player all animations (Goofy)_21: 8302584434285629286
+      Player all animations (Goofy)_22: -4477033191151440473
+      Player all animations (Goofy)_23: 8849579030156882987
+      Player all animations (Goofy)_24: 1008641243122800812
+      Player all animations (Goofy)_25: 7231999720845720169
+      Player all animations (Goofy)_26: -1807331569664930768
+      Player all animations (Goofy)_27: -126005796125656028
+      Player all animations (Goofy)_28: 2313632609251978026
+      Player all animations (Goofy)_29: 2143171690374324323
+      Player all animations (Goofy)_3: -3607330931698282140
+      Player all animations (Goofy)_30: -6662086135157414388
+      Player all animations (Goofy)_31: 1753920203074546064
+      Player all animations (Goofy)_32: 3569544562376894275
+      Player all animations (Goofy)_33: 1135570766862886433
+      Player all animations (Goofy)_34: -6736082935352204084
+      Player all animations (Goofy)_35: 1738796123839229055
+      Player all animations (Goofy)_36: 8674656278901159770
+      Player all animations (Goofy)_37: -7169067161510462564
+      Player all animations (Goofy)_38: 5324203003751312714
+      Player all animations (Goofy)_39: 7903327409880900593
+      Player all animations (Goofy)_4: 860928694743390301
+      Player all animations (Goofy)_40: -3717822505316768807
+      Player all animations (Goofy)_41: 3732181665936680203
+      Player all animations (Goofy)_42: 5564713780402447074
+      Player all animations (Goofy)_43: 101351501876002041
+      Player all animations (Goofy)_44: 7916481598636636481
+      Player all animations (Goofy)_45: -584418022806302124
+      Player all animations (Goofy)_46: -3059120737379835202
+      Player all animations (Goofy)_47: -4696912148555004136
+      Player all animations (Goofy)_48: 517955064520567832
+      Player all animations (Goofy)_49: 3236200449196748899
+      Player all animations (Goofy)_5: 2192328484675509271
+      Player all animations (Goofy)_50: -8785239706368893495
+      Player all animations (Goofy)_51: 8569807540743397335
+      Player all animations (Goofy)_52: -4894499483253994846
+      Player all animations (Goofy)_53: 6625730603475348494
+      Player all animations (Goofy)_54: -254522716149548362
+      Player all animations (Goofy)_55: 5377618586966342617
+      Player all animations (Goofy)_56: 3714730559235993205
+      Player all animations (Goofy)_57: 5029608218715399351
+      Player all animations (Goofy)_58: 8263026793461479782
+      Player all animations (Goofy)_59: 6001009408410706806
+      Player all animations (Goofy)_6: -6617800005879506595
+      Player all animations (Goofy)_60: 8872867395378794546
+      Player all animations (Goofy)_61: 4190070057274179619
+      Player all animations (Goofy)_62: -6718255270850036165
+      Player all animations (Goofy)_63: -2798798090735085566
+      Player all animations (Goofy)_64: 2821559066915784610
+      Player all animations (Goofy)_65: -9007838530843181905
+      Player all animations (Goofy)_66: -6698069861960268676
+      Player all animations (Goofy)_67: -5721209051087433344
+      Player all animations (Goofy)_68: 5975644626197258224
+      Player all animations (Goofy)_69: 7339904622983139616
+      Player all animations (Goofy)_7: 4939089245805969984
+      Player all animations (Goofy)_70: -1513634559004932787
+      Player all animations (Goofy)_71: 2518842967006835744
+      Player all animations (Goofy)_72: 7528613012254855602
+      Player all animations (Goofy)_73: 7337681285214271254
+      Player all animations (Goofy)_74: 3078142908810056827
+      Player all animations (Goofy)_75: 5016400746966910202
+      Player all animations (Goofy)_76: 5833242736056392959
+      Player all animations (Goofy)_77: -1776028893164019530
+      Player all animations (Goofy)_78: 2931747975239904133
+      Player all animations (Goofy)_79: -9089282297589819638
+      Player all animations (Goofy)_8: -7253052817128828693
+      Player all animations (Goofy)_80: -8337464421473579905
+      Player all animations (Goofy)_81: -8594460332543552849
+      Player all animations (Goofy)_82: -695887539786924351
+      Player all animations (Goofy)_83: -899074079979863098
+      Player all animations (Goofy)_84: 6154431323899131626
+      Player all animations (Goofy)_85: 7177450727360895469
+      Player all animations (Goofy)_86: -233838931273192352
+      Player all animations (Goofy)_87: 6886328713137231332
+      Player all animations (Goofy)_88: -758494186778573169
+      Player all animations (Goofy)_89: 8406832315261195016
+      Player all animations (Goofy)_9: 7039254091827879992
+      Player all animations (Goofy)_90: -4568537352046429619
+      Player all animations (Goofy)_91: 2862398304651273796
+      Player all animations (Goofy)_92: -137053180920195372
+      Player all animations (Goofy)_93: -8472691286315164708
+      Player all animations (Goofy)_94: -4877761852416912876
+      Player all animations (Goofy)_95: 5741515665679953494
+      Player all animations (Goofy)_96: -7596112083145745014
+      Player all animations (Goofy)_97: 6274286216698322202
+      Player all animations (Goofy)_98: -6792984082843931018
+      Player all animations (Goofy)_99: 5835431709158720821
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

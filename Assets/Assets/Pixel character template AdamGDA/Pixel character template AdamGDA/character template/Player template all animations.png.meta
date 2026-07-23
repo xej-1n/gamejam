@@ -1,0 +1,2691 @@
+fileFormatVersion: 2
+guid: 6f3f491d166144a47b1d8d3fa38df728
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -883385830027263137
+    second: Player template all animations_0
+  - first:
+      213: -5069808557761130379
+    second: Player template all animations_1
+  - first:
+      213: -759616414081203908
+    second: Player template all animations_2
+  - first:
+      213: 5097359505933582640
+    second: Player template all animations_3
+  - first:
+      213: 6905086938416347854
+    second: Player template all animations_4
+  - first:
+      213: 2844798910910454741
+    second: Player template all animations_5
+  - first:
+      213: -7179095912618251841
+    second: Player template all animations_6
+  - first:
+      213: 8426729527608550389
+    second: Player template all animations_7
+  - first:
+      213: 8324670480957635485
+    second: Player template all animations_8
+  - first:
+      213: 7194876918902539294
+    second: Player template all animations_9
+  - first:
+      213: -1941898111632752269
+    second: Player template all animations_10
+  - first:
+      213: 4215571368251480469
+    second: Player template all animations_11
+  - first:
+      213: -1133219580466569859
+    second: Player template all animations_12
+  - first:
+      213: 2564710573226223502
+    second: Player template all animations_13
+  - first:
+      213: -5385317275111112958
+    second: Player template all animations_14
+  - first:
+      213: 9037877429455063000
+    second: Player template all animations_15
+  - first:
+      213: 2499720338339573338
+    second: Player template all animations_16
+  - first:
+      213: -6930644136158534130
+    second: Player template all animations_17
+  - first:
+      213: -7086381068164233098
+    second: Player template all animations_18
+  - first:
+      213: -1193033274103728465
+    second: Player template all animations_19
+  - first:
+      213: -414290722274690509
+    second: Player template all animations_20
+  - first:
+      213: 7412079932686776814
+    second: Player template all animations_21
+  - first:
+      213: 6026351497859280302
+    second: Player template all animations_22
+  - first:
+      213: 5428584957277284131
+    second: Player template all animations_23
+  - first:
+      213: 1608910698450451250
+    second: Player template all animations_24
+  - first:
+      213: -6541025541241152861
+    second: Player template all animations_25
+  - first:
+      213: 2444295798245028734
+    second: Player template all animations_26
+  - first:
+      213: 1089165637731493897
+    second: Player template all animations_27
+  - first:
+      213: 1726443717383880136
+    second: Player template all animations_28
+  - first:
+      213: -1065037856729163301
+    second: Player template all animations_29
+  - first:
+      213: -3646577733730545806
+    second: Player template all animations_30
+  - first:
+      213: -1879729605947999900
+    second: Player template all animations_31
+  - first:
+      213: 1321284849868460426
+    second: Player template all animations_32
+  - first:
+      213: -3839480639642319581
+    second: Player template all animations_33
+  - first:
+      213: -9065599606244976769
+    second: Player template all animations_34
+  - first:
+      213: -673098168324057119
+    second: Player template all animations_35
+  - first:
+      213: -7971177763658694621
+    second: Player template all animations_36
+  - first:
+      213: -7415449121462496377
+    second: Player template all animations_37
+  - first:
+      213: -6637908350838788506
+    second: Player template all animations_38
+  - first:
+      213: -3885029845852677552
+    second: Player template all animations_39
+  - first:
+      213: 2104013204661208302
+    second: Player template all animations_40
+  - first:
+      213: -5904485197117684894
+    second: Player template all animations_41
+  - first:
+      213: 4010057119912729962
+    second: Player template all animations_42
+  - first:
+      213: 129325442986243216
+    second: Player template all animations_43
+  - first:
+      213: -1086205744099511770
+    second: Player template all animations_44
+  - first:
+      213: 5978590134658697033
+    second: Player template all animations_45
+  - first:
+      213: 7445181249664914344
+    second: Player template all animations_46
+  - first:
+      213: 4112599754695475835
+    second: Player template all animations_47
+  - first:
+      213: -2282265521638414525
+    second: Player template all animations_48
+  - first:
+      213: 486367284603762879
+    second: Player template all animations_49
+  - first:
+      213: 8988427971149754102
+    second: Player template all animations_50
+  - first:
+      213: -2240320164631557022
+    second: Player template all animations_51
+  - first:
+      213: 8073817431461887398
+    second: Player template all animations_52
+  - first:
+      213: 4842058192608500142
+    second: Player template all animations_53
+  - first:
+      213: 7436276051553537777
+    second: Player template all animations_54
+  - first:
+      213: -2867830710667856678
+    second: Player template all animations_55
+  - first:
+      213: -6900178960785725905
+    second: Player template all animations_56
+  - first:
+      213: 6432025341776931238
+    second: Player template all animations_57
+  - first:
+      213: -4166766837037375918
+    second: Player template all animations_58
+  - first:
+      213: 8887995760833713629
+    second: Player template all animations_59
+  - first:
+      213: -3393298042178888730
+    second: Player template all animations_60
+  - first:
+      213: -3588288530536531663
+    second: Player template all animations_61
+  - first:
+      213: 7377188294406900057
+    second: Player template all animations_62
+  - first:
+      213: -8739938128524435889
+    second: Player template all animations_63
+  - first:
+      213: -3579519153384520316
+    second: Player template all animations_64
+  - first:
+      213: -7696306498343819513
+    second: Player template all animations_65
+  - first:
+      213: -2639736616106073707
+    second: Player template all animations_66
+  - first:
+      213: -3880275874971163218
+    second: Player template all animations_67
+  - first:
+      213: 8760538402260500180
+    second: Player template all animations_68
+  - first:
+      213: -1482379389193082618
+    second: Player template all animations_69
+  - first:
+      213: -5386534742338459366
+    second: Player template all animations_70
+  - first:
+      213: 5941518563990777
+    second: Player template all animations_71
+  - first:
+      213: 7485784267353024471
+    second: Player template all animations_72
+  - first:
+      213: 6137983141925088852
+    second: Player template all animations_73
+  - first:
+      213: 4306271768664474302
+    second: Player template all animations_74
+  - first:
+      213: -55240846638240298
+    second: Player template all animations_75
+  - first:
+      213: 3208944850464032740
+    second: Player template all animations_76
+  - first:
+      213: 2044864940913778605
+    second: Player template all animations_77
+  - first:
+      213: 920290831210185737
+    second: Player template all animations_78
+  - first:
+      213: 5693605589148144655
+    second: Player template all animations_79
+  - first:
+      213: -3640205716461360524
+    second: Player template all animations_80
+  - first:
+      213: -4923113468287827643
+    second: Player template all animations_81
+  - first:
+      213: 4471629978104323289
+    second: Player template all animations_82
+  - first:
+      213: -8405419862887215790
+    second: Player template all animations_83
+  - first:
+      213: 3724106822691217044
+    second: Player template all animations_84
+  - first:
+      213: -5429741433487985927
+    second: Player template all animations_85
+  - first:
+      213: -840876298828242454
+    second: Player template all animations_86
+  - first:
+      213: 8759583688405797516
+    second: Player template all animations_87
+  - first:
+      213: 8324644573017445895
+    second: Player template all animations_88
+  - first:
+      213: -7291272762880307788
+    second: Player template all animations_89
+  - first:
+      213: 2674448010827765741
+    second: Player template all animations_90
+  - first:
+      213: 6182710881941790030
+    second: Player template all animations_91
+  - first:
+      213: 5321163831539642772
+    second: Player template all animations_92
+  - first:
+      213: -1523058749879406819
+    second: Player template all animations_93
+  - first:
+      213: 6007566098596674843
+    second: Player template all animations_94
+  - first:
+      213: 6377643036510576032
+    second: Player template all animations_95
+  - first:
+      213: 7561443181855210462
+    second: Player template all animations_96
+  - first:
+      213: 3807239881857567006
+    second: Player template all animations_97
+  - first:
+      213: -3110803861991871912
+    second: Player template all animations_98
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player template all animations_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f538c9994459db3f0800000000000000
+      internalID: -883385830027263137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570996b4afb64a9b0800000000000000
+      internalID: -5069808557761130379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31422165ec4575f0800000000000000
+      internalID: -759616414081203908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031c1a3b6757db640800000000000000
+      internalID: 5097359505933582640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_4
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecafe7b5cfbc3df50800000000000000
+      internalID: 6905086938416347854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_5
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db5c3e7981ca7720800000000000000
+      internalID: 2844798910910454741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_6
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb92eefcd4abe5c90800000000000000
+      internalID: -7179095912618251841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_7
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 0
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3276fcbd1c1f470800000000000000
+      internalID: 8426729527608550389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_8
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 0
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bf8a942bb278370800000000000000
+      internalID: 8324670480957635485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_9
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 0
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14c7d9007659d360800000000000000
+      internalID: 7194876918902539294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_10
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 0
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371c022c4fdfc05e0800000000000000
+      internalID: -1941898111632752269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_11
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 0
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599dfe903d7b08a30800000000000000
+      internalID: 4215571368251480469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_12
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 0
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7dd5cdabcef540f0800000000000000
+      internalID: -1133219580466569859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_13
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8766dc8daea79320800000000000000
+      internalID: 2564710573226223502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_14
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 0
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f3a3e88728345b0800000000000000
+      internalID: -5385317275111112958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_15
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 0
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7803a23adfc6d70800000000000000
+      internalID: 9037877429455063000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_16
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 0
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5eac84576ac0b220800000000000000
+      internalID: 2499720338339573338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_17
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 0
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0660a7d0e761df90800000000000000
+      internalID: -6930644136158534130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_18
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 0
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6788409b6fd18ad90800000000000000
+      internalID: -7086381068164233098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_19
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 0
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa673d3ee8e717fe0800000000000000
+      internalID: -1193033274103728465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_20
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 0
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ab31978c4204af0800000000000000
+      internalID: -414290722274690509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_21
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9b89a8d6ffcd660800000000000000
+      internalID: 7412079932686776814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_22
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 0
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadab8122c6e1a350800000000000000
+      internalID: 6026351497859280302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_23
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 0
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327aa8bb145365b40800000000000000
+      internalID: 5428584957277284131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_24
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 0
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bf67081cff35610800000000000000
+      internalID: 1608910698450451250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_25
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 0
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa50931deb9935a0800000000000000
+      internalID: -6541025541241152861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_26
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 0
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73ff5cf312ebe120800000000000000
+      internalID: 2444295798245028734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_27
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 0
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9082c8a706e7d1f00800000000000000
+      internalID: 1089165637731493897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_28
+      rect:
+        serializedVersion: 2
+        x: 2721
+        y: 0
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdfe53f96f85f710800000000000000
+      internalID: 1726443717383880136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_29
+      rect:
+        serializedVersion: 2
+        x: 2818
+        y: 0
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9905d46b93831f0800000000000000
+      internalID: -1065037856729163301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_30
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 0
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f442f1fd0c46dc0800000000000000
+      internalID: -3646577733730545806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_31
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 0
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4693fa3f1ebd9e5e0800000000000000
+      internalID: -1879729605947999900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_32
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 0
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81d38b0295265210800000000000000
+      internalID: 1321284849868460426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_33
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 0
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325412063bc67bac0800000000000000
+      internalID: -3839480639642319581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_34
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 0
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77d8d19035803280800000000000000
+      internalID: -9065599606244976769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_35
+      rect:
+        serializedVersion: 2
+        x: 3382
+        y: 24
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7141a38cca8a6f0800000000000000
+      internalID: -673098168324057119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_36
+      rect:
+        serializedVersion: 2
+        x: 3395
+        y: 0
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32081ab9e00b06190800000000000000
+      internalID: -7971177763658694621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_37
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 0
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783de311058071990800000000000000
+      internalID: -7415449121462496377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_38
+      rect:
+        serializedVersion: 2
+        x: 3586
+        y: 0
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ea7a8268961e3a0800000000000000
+      internalID: -6637908350838788506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_39
+      rect:
+        serializedVersion: 2
+        x: 3684
+        y: 0
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a192060f9951ac0800000000000000
+      internalID: -3885029845852677552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_40
+      rect:
+        serializedVersion: 2
+        x: 3781
+        y: 0
+        width: 21
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee40092bcd4f23d10800000000000000
+      internalID: 2104013204661208302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_41
+      rect:
+        serializedVersion: 2
+        x: 3869
+        y: 0
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2638f3c1ffd0f0ea0800000000000000
+      internalID: -5904485197117684894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_42
+      rect:
+        serializedVersion: 2
+        x: 3965
+        y: 0
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d9c6154b596a730800000000000000
+      internalID: 4010057119912729962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_43
+      rect:
+        serializedVersion: 2
+        x: 4061
+        y: 0
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0947d912ec47bc100800000000000000
+      internalID: 129325442986243216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_44
+      rect:
+        serializedVersion: 2
+        x: 4159
+        y: 0
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622b5f571a50de0f0800000000000000
+      internalID: -1086205744099511770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_45
+      rect:
+        serializedVersion: 2
+        x: 4243
+        y: 0
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9478cf13d0838f250800000000000000
+      internalID: 5978590134658697033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_46
+      rect:
+        serializedVersion: 2
+        x: 5215
+        y: 0
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a31daa76e8925760800000000000000
+      internalID: 7445181249664914344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_47
+      rect:
+        serializedVersion: 2
+        x: 5313
+        y: 0
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b728bf9ffa3e21930800000000000000
+      internalID: 4112599754695475835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_48
+      rect:
+        serializedVersion: 2
+        x: 5412
+        y: 0
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347ee9b9993c350e0800000000000000
+      internalID: -2282265521638414525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_49
+      rect:
+        serializedVersion: 2
+        x: 5509
+        y: 0
+        width: 20
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8bd2de77cefb600800000000000000
+      internalID: 486367284603762879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_50
+      rect:
+        serializedVersion: 2
+        x: 5596
+        y: 0
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fee095fd9f4dbc70800000000000000
+      internalID: 8988427971149754102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_51
+      rect:
+        serializedVersion: 2
+        x: 5690
+        y: 0
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ccdf31ea8c8e0e0800000000000000
+      internalID: -2240320164631557022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_52
+      rect:
+        serializedVersion: 2
+        x: 5790
+        y: 2
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad74af4d26fb0070800000000000000
+      internalID: 8073817431461887398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_53
+      rect:
+        serializedVersion: 2
+        x: 5883
+        y: 0
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea913389542723340800000000000000
+      internalID: 4842058192608500142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_54
+      rect:
+        serializedVersion: 2
+        x: 5982
+        y: 0
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fec7987ba5f23760800000000000000
+      internalID: 7436276051553537777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_55
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 0
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4bfaeb92b6338d0800000000000000
+      internalID: -2867830710667856678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_56
+      rect:
+        serializedVersion: 2
+        x: 6170
+        y: 1
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f262ebb3bc3ad30a0800000000000000
+      internalID: -6900178960785725905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_57
+      rect:
+        serializedVersion: 2
+        x: 6265
+        y: 0
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9ace258f4234950800000000000000
+      internalID: 6432025341776931238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_58
+      rect:
+        serializedVersion: 2
+        x: 6363
+        y: 0
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e528063abac26c0800000000000000
+      internalID: -4166766837037375918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_59
+      rect:
+        serializedVersion: 2
+        x: 6457
+        y: 0
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5dba9cd01885b70800000000000000
+      internalID: 8887995760833713629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_60
+      rect:
+        serializedVersion: 2
+        x: 6559
+        y: 2
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb16eab86598e0d0800000000000000
+      internalID: -3393298042178888730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_61
+      rect:
+        serializedVersion: 2
+        x: 6650
+        y: 0
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139f2c1d796d33ec0800000000000000
+      internalID: -3588288530536531663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_62
+      rect:
+        serializedVersion: 2
+        x: 6749
+        y: 0
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9590b41faa9016660800000000000000
+      internalID: 7377188294406900057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_63
+      rect:
+        serializedVersion: 2
+        x: 6850
+        y: 0
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e986a049085b680800000000000000
+      internalID: -8739938128524435889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_64
+      rect:
+        serializedVersion: 2
+        x: 6941
+        y: 7
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4850fcb8b4ef25ec0800000000000000
+      internalID: -3579519153384520316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_65
+      rect:
+        serializedVersion: 2
+        x: 7028
+        y: 27
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707afab340a313590800000000000000
+      internalID: -7696306498343819513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_66
+      rect:
+        serializedVersion: 2
+        x: 7125
+        y: 40
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591e7689885cd5bd0800000000000000
+      internalID: -2639736616106073707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_67
+      rect:
+        serializedVersion: 2
+        x: 7229
+        y: 29
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea563d976ad762ac0800000000000000
+      internalID: -3880275874971163218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_68
+      rect:
+        serializedVersion: 2
+        x: 7327
+        y: 24
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4deb7e3f24fa39970800000000000000
+      internalID: 8760538402260500180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_69
+      rect:
+        serializedVersion: 2
+        x: 7427
+        y: 14
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60929ccacc78d6be0800000000000000
+      internalID: -1482379389193082618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_70
+      rect:
+        serializedVersion: 2
+        x: 7524
+        y: 0
+        width: 25
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19ad90e03f2f35b0800000000000000
+      internalID: -5386534742338459366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_71
+      rect:
+        serializedVersion: 2
+        x: 7622
+        y: 0
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fcde6797cb151000800000000000000
+      internalID: 5941518563990777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_72
+      rect:
+        serializedVersion: 2
+        x: 7714
+        y: 0
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7e8c83129d2e760800000000000000
+      internalID: 7485784267353024471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_73
+      rect:
+        serializedVersion: 2
+        x: 7805
+        y: 0
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ee7cba52f7e2550800000000000000
+      internalID: 6137983141925088852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_74
+      rect:
+        serializedVersion: 2
+        x: 7892
+        y: 0
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb20a85ab53f2cb30800000000000000
+      internalID: 4306271768664474302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_75
+      rect:
+        serializedVersion: 2
+        x: 7989
+        y: 0
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd290f1ebebb3ff0800000000000000
+      internalID: -55240846638240298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_76
+      rect:
+        serializedVersion: 2
+        x: 8093
+        y: 0
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e74abbf656788c20800000000000000
+      internalID: 3208944850464032740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_77
+      rect:
+        serializedVersion: 2
+        x: 8191
+        y: 0
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafd0d064d1d06c10800000000000000
+      internalID: 2044864940913778605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_78
+      rect:
+        serializedVersion: 2
+        x: 8291
+        y: 0
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904055492a785cc00800000000000000
+      internalID: 920290831210185737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_79
+      rect:
+        serializedVersion: 2
+        x: 8388
+        y: 0
+        width: 25
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f049a580e10c30f40800000000000000
+      internalID: 5693605589148144655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_80
+      rect:
+        serializedVersion: 2
+        x: 8486
+        y: 0
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a69f000346b7dc0800000000000000
+      internalID: -3640205716461360524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_81
+      rect:
+        serializedVersion: 2
+        x: 8578
+        y: 1
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54143c562669dabb0800000000000000
+      internalID: -4923113468287827643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_82
+      rect:
+        serializedVersion: 2
+        x: 8674
+        y: 1
+        width: 26
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc55ebf5cb6e0e30800000000000000
+      internalID: 4471629978104323289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_83
+      rect:
+        serializedVersion: 2
+        x: 8770
+        y: 0
+        width: 26
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d48942b23f95b80800000000000000
+      internalID: -8405419862887215790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_84
+      rect:
+        serializedVersion: 2
+        x: 8866
+        y: 0
+        width: 26
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e5e109c6faea330800000000000000
+      internalID: 3724106822691217044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_85
+      rect:
+        serializedVersion: 2
+        x: 8962
+        y: 1
+        width: 26
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f27aba2feea5a4b0800000000000000
+      internalID: -5429741433487985927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_86
+      rect:
+        serializedVersion: 2
+        x: 9058
+        y: 1
+        width: 26
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae12c4c167b9454f0800000000000000
+      internalID: -840876298828242454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_87
+      rect:
+        serializedVersion: 2
+        x: 9154
+        y: 1
+        width: 26
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8acbbf44fa409970800000000000000
+      internalID: 8759583688405797516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_88
+      rect:
+        serializedVersion: 2
+        x: 9250
+        y: 0
+        width: 26
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70696102224178370800000000000000
+      internalID: 8324644573017445895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_89
+      rect:
+        serializedVersion: 2
+        x: 9346
+        y: 0
+        width: 26
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bdc9009d0230da90800000000000000
+      internalID: -7291272762880307788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_90
+      rect:
+        serializedVersion: 2
+        x: 4342
+        y: 0
+        width: 58
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de793a7cb4c8d1520800000000000000
+      internalID: 2674448010827765741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_91
+      rect:
+        serializedVersion: 2
+        x: 4425
+        y: 0
+        width: 79
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d151b2ac66dc550800000000000000
+      internalID: 6182710881941790030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_92
+      rect:
+        serializedVersion: 2
+        x: 4528
+        y: 0
+        width: 68
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491b392ef4298d940800000000000000
+      internalID: 5321163831539642772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_93
+      rect:
+        serializedVersion: 2
+        x: 4628
+        y: 0
+        width: 62
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f2361f2220ddae0800000000000000
+      internalID: -1523058749879406819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_94
+      rect:
+        serializedVersion: 2
+        x: 4726
+        y: 0
+        width: 58
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1db88789892f5350800000000000000
+      internalID: 6007566098596674843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_95
+      rect:
+        serializedVersion: 2
+        x: 4822
+        y: 0
+        width: 58
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0add47f2d80f18850800000000000000
+      internalID: 6377643036510576032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_96
+      rect:
+        serializedVersion: 2
+        x: 4918
+        y: 0
+        width: 58
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb77cbf284afe860800000000000000
+      internalID: 7561443181855210462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_97
+      rect:
+        serializedVersion: 2
+        x: 5014
+        y: 0
+        width: 58
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1902dc308806d430800000000000000
+      internalID: 3807239881857567006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player template all animations_98
+      rect:
+        serializedVersion: 2
+        x: 5111
+        y: 0
+        width: 55
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85aaf088e5434d4d0800000000000000
+      internalID: -3110803861991871912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Player template all animations_0: -883385830027263137
+      Player template all animations_1: -5069808557761130379
+      Player template all animations_10: -1941898111632752269
+      Player template all animations_11: 4215571368251480469
+      Player template all animations_12: -1133219580466569859
+      Player template all animations_13: 2564710573226223502
+      Player template all animations_14: -5385317275111112958
+      Player template all animations_15: 9037877429455063000
+      Player template all animations_16: 2499720338339573338
+      Player template all animations_17: -6930644136158534130
+      Player template all animations_18: -7086381068164233098
+      Player template all animations_19: -1193033274103728465
+      Player template all animations_2: -759616414081203908
+      Player template all animations_20: -414290722274690509
+      Player template all animations_21: 7412079932686776814
+      Player template all animations_22: 6026351497859280302
+      Player template all animations_23: 5428584957277284131
+      Player template all animations_24: 1608910698450451250
+      Player template all animations_25: -6541025541241152861
+      Player template all animations_26: 2444295798245028734
+      Player template all animations_27: 1089165637731493897
+      Player template all animations_28: 1726443717383880136
+      Player template all animations_29: -1065037856729163301
+      Player template all animations_3: 5097359505933582640
+      Player template all animations_30: -3646577733730545806
+      Player template all animations_31: -1879729605947999900
+      Player template all animations_32: 1321284849868460426
+      Player template all animations_33: -3839480639642319581
+      Player template all animations_34: -9065599606244976769
+      Player template all animations_35: -673098168324057119
+      Player template all animations_36: -7971177763658694621
+      Player template all animations_37: -7415449121462496377
+      Player template all animations_38: -6637908350838788506
+      Player template all animations_39: -3885029845852677552
+      Player template all animations_4: 6905086938416347854
+      Player template all animations_40: 2104013204661208302
+      Player template all animations_41: -5904485197117684894
+      Player template all animations_42: 4010057119912729962
+      Player template all animations_43: 129325442986243216
+      Player template all animations_44: -1086205744099511770
+      Player template all animations_45: 5978590134658697033
+      Player template all animations_46: 7445181249664914344
+      Player template all animations_47: 4112599754695475835
+      Player template all animations_48: -2282265521638414525
+      Player template all animations_49: 486367284603762879
+      Player template all animations_5: 2844798910910454741
+      Player template all animations_50: 8988427971149754102
+      Player template all animations_51: -2240320164631557022
+      Player template all animations_52: 8073817431461887398
+      Player template all animations_53: 4842058192608500142
+      Player template all animations_54: 7436276051553537777
+      Player template all animations_55: -2867830710667856678
+      Player template all animations_56: -6900178960785725905
+      Player template all animations_57: 6432025341776931238
+      Player template all animations_58: -4166766837037375918
+      Player template all animations_59: 8887995760833713629
+      Player template all animations_6: -7179095912618251841
+      Player template all animations_60: -3393298042178888730
+      Player template all animations_61: -3588288530536531663
+      Player template all animations_62: 7377188294406900057
+      Player template all animations_63: -8739938128524435889
+      Player template all animations_64: -3579519153384520316
+      Player template all animations_65: -7696306498343819513
+      Player template all animations_66: -2639736616106073707
+      Player template all animations_67: -3880275874971163218
+      Player template all animations_68: 8760538402260500180
+      Player template all animations_69: -1482379389193082618
+      Player template all animations_7: 8426729527608550389
+      Player template all animations_70: -5386534742338459366
+      Player template all animations_71: 5941518563990777
+      Player template all animations_72: 7485784267353024471
+      Player template all animations_73: 6137983141925088852
+      Player template all animations_74: 4306271768664474302
+      Player template all animations_75: -55240846638240298
+      Player template all animations_76: 3208944850464032740
+      Player template all animations_77: 2044864940913778605
+      Player template all animations_78: 920290831210185737
+      Player template all animations_79: 5693605589148144655
+      Player template all animations_8: 8324670480957635485
+      Player template all animations_80: -3640205716461360524
+      Player template all animations_81: -4923113468287827643
+      Player template all animations_82: 4471629978104323289
+      Player template all animations_83: -8405419862887215790
+      Player template all animations_84: 3724106822691217044
+      Player template all animations_85: -5429741433487985927
+      Player template all animations_86: -840876298828242454
+      Player template all animations_87: 8759583688405797516
+      Player template all animations_88: 8324644573017445895
+      Player template all animations_89: -7291272762880307788
+      Player template all animations_9: 7194876918902539294
+      Player template all animations_90: 2674448010827765741
+      Player template all animations_91: 6182710881941790030
+      Player template all animations_92: 5321163831539642772
+      Player template all animations_93: -1523058749879406819
+      Player template all animations_94: 6007566098596674843
+      Player template all animations_95: 6377643036510576032
+      Player template all animations_96: 7561443181855210462
+      Player template all animations_97: 3807239881857567006
+      Player template all animations_98: -3110803861991871912
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
