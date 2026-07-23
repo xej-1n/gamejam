@@ -1,24 +1,33 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using System.Collections;
+using UnityEngine.SceneManagement;  
 
 public class PlayerController : MonoBehaviour
 {
     [Header("이동 속도")]
     public float moveSpeed = 5f;
 
+    [Header("죽음 애니메이션 대기 시간")]
+    public float deathDelay = 0.3f;
+
     private Rigidbody2D rb;
     private Animator anim;
-
     private Vector2 moveInput;
+    private bool isDead = false;
+    private int dieLayer;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
+        dieLayer = LayerMask.NameToLayer("Die");
     }
 
     void Update()
     {
+        if (isDead) return;
+
         anim.SetBool("IsRunning", Mathf.Abs(moveInput.x) > 0.1f);
 
         if (moveInput.x > 0)
@@ -33,11 +42,53 @@ public class PlayerController : MonoBehaviour
 
     void FixedUpdate()
     {
+        if (isDead)
+        {
+
+            rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
+            return;
+        }
+
         rb.linearVelocity = new Vector2(moveInput.x * moveSpeed, rb.linearVelocity.y);
     }
 
     public void OnMove(InputValue value)
     {
+
         moveInput = value.Get<Vector2>();
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+
+        if (collision.collider.gameObject.layer == dieLayer && !isDead)
+        {
+            StartCoroutine(DieAndRespawn());
+        }
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+
+        if (collision.gameObject.layer == dieLayer && !isDead)
+        {
+            StartCoroutine(DieAndRespawn());
+        }
+    }
+
+    private IEnumerator DieAndRespawn()
+    {
+        isDead = true;
+
+        moveInput = Vector2.zero;
+        anim.SetBool("IsRunning", false);
+        rb.linearVelocity = Vector2.zero;
+
+        anim.SetTrigger("Die");
+
+        yield return new WaitForSeconds(deathDelay);
+
+    
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 }
