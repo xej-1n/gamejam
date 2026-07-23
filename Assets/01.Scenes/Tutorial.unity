@@ -1568,7 +1568,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "\uB9C8\uC6B0\uC2A4\uB97C \uB4DC\uB798\uADF8 \uD574\uC11C \uACF5\uAC04\uC744
-    \n\uC790\uB978 \uB4A4 \uBD99\uC5EC\uB123\uC73C\uC138\uC694!"
+    \n\uC790\uB974\uACE0 R\uD0A4\uB85C \uD68C\uC804 \uC2DC\uCF1C\uC11C \uBD99\uC774\uC138\uC694!"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 537f026cf3e2540408df0f363e53f632, type: 2}
   m_sharedMaterial: {fileID: 659228357198963020, guid: 537f026cf3e2540408df0f363e53f632, type: 2}
@@ -1634,7 +1634,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: -17.28418, z: -374.94775, w: 0}
+  m_margin: {x: 2.077301, y: -17.28418, z: -374.94775, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0

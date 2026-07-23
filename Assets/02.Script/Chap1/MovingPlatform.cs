@@ -7,7 +7,10 @@ public class MovingPlatform : MonoBehaviour
     public float speed = 2f;
 
     private Vector3 startPosition;
-    private int direction = 1;
+    private bool isMoving = true;
+
+    private Rigidbody2D playerRb;
+    private RigidbodyType2D originalBodyType;
 
     void Start()
     {
@@ -16,17 +19,15 @@ public class MovingPlatform : MonoBehaviour
 
     void Update()
     {
-        transform.Translate(Vector3.right * direction * speed * Time.deltaTime);
+        if (!isMoving) return;
+
+        transform.Translate(Vector3.right * speed * Time.deltaTime);
 
         float currentOffset = transform.position.x - startPosition.x;
 
-        if (currentOffset >= moveDistance && direction == 1)
+        if (currentOffset >= moveDistance)
         {
-            direction = -1;
-        }
-        else if (currentOffset <= -moveDistance && direction == -1)
-        {
-            direction = 1;
+            StopPlatformAndReleasePlayer();
         }
     }
 
@@ -34,14 +35,17 @@ public class MovingPlatform : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            collision.transform.SetParent(transform);
-            return;
-        }
+            if (isMoving)
+            {
+                playerRb = collision.gameObject.GetComponent<Rigidbody2D>();
 
-        Vector2 contactNormal = collision.contacts[0].normal;
-        if (Mathf.Abs(contactNormal.x) > 0.5f)
-        {
-            direction *= -1;
+                if (playerRb != null)
+                {
+                    originalBodyType = playerRb.bodyType;
+                    playerRb.bodyType = RigidbodyType2D.Static;
+                }
+                collision.transform.SetParent(transform);
+            }
         }
     }
 
@@ -49,10 +53,28 @@ public class MovingPlatform : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            if (gameObject.activeInHierarchy && collision.gameObject.activeInHierarchy)
+            ReleasePlayer();
+        }
+    }
+
+    private void StopPlatformAndReleasePlayer()
+    {
+        isMoving = false;
+        ReleasePlayer();
+    }
+
+    private void ReleasePlayer()
+    {
+        if (playerRb != null)
+        {
+            playerRb.bodyType = originalBodyType;
+
+            if (gameObject.activeInHierarchy && playerRb.gameObject.activeInHierarchy)
             {
-                collision.transform.SetParent(null);
+                playerRb.transform.SetParent(null);
             }
+
+            playerRb = null;
         }
     }
 }
