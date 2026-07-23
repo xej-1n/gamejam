@@ -10,7 +10,7 @@ public class DraggableBlock : MonoBehaviour
     void Start()
     {
         colliders = GetComponentsInChildren<Collider2D>();
-        SetTriggers(true);
+        SetTriggers(false);
     }
 
     void Update()
