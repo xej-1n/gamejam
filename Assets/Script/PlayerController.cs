@@ -23,11 +23,11 @@ public class PlayerController : MonoBehaviour
 
         if (moveInput.x > 0)
         {
-            transform.localScale = new Vector3(2.5f, 2.5f, 1);
+            transform.localScale = new Vector3(3, 3, 1);
         }
         else if (moveInput.x < 0)
         {
-            transform.localScale = new Vector3(-2.5f, 2.5f, 1);
+            transform.localScale = new Vector3(-3, 3, 1);
         }
     }
 
