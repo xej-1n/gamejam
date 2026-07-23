@@ -132,7 +132,7 @@ GameObject:
   - component: {fileID: 113333525}
   - component: {fileID: 113333524}
   - component: {fileID: 113333528}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: field of thorns
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -201,7 +201,7 @@ Rigidbody2D:
   m_LinearDamping: 0
   m_AngularDamping: 0
   m_GravityScale: 0
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 2d09ff8d2b8284144abd4681d79de936, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -211,7 +211,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 7
 --- !u!212 &113333526
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -298,7 +298,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 34fb100de329c184bbe2556c2260afbb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotationSpeed: 150
 --- !u!1 &217009650
 GameObject:
   m_ObjectHideFlags: 0
@@ -311,7 +310,7 @@ GameObject:
   - component: {fileID: 217009651}
   - component: {fileID: 217009654}
   - component: {fileID: 217009653}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -382,8 +381,8 @@ Transform:
   m_GameObject: {fileID: 217009650}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.8513, y: -2.6676, z: 0}
-  m_LocalScale: {x: 14.461305, y: 0.87540245, z: 1}
+  m_LocalPosition: {x: -16.2993, y: -2.6676, z: 0}
+  m_LocalScale: {x: 33.357643, y: 0.87540245, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -460,7 +459,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 7
 --- !u!1 &295486891
 GameObject:
   m_ObjectHideFlags: 0
@@ -559,7 +558,7 @@ PolygonCollider2D:
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 2d09ff8d2b8284144abd4681d79de936, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -611,7 +610,7 @@ GameObject:
   - component: {fileID: 315028174}
   - component: {fileID: 315028173}
   - component: {fileID: 315028172}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (1)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -690,7 +689,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 7
 --- !u!212 &315028174
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -859,7 +858,7 @@ PolygonCollider2D:
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 2d09ff8d2b8284144abd4681d79de936, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -944,7 +943,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 7
 --- !u!61 &542916754
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1055,7 +1054,7 @@ Transform:
   m_GameObject: {fileID: 542916752}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -21.5, y: -0.28, z: 0}
+  m_LocalPosition: {x: -18.36, y: -0.28, z: 0}
   m_LocalScale: {x: -15.043655, y: 14.175209, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1159,7 +1158,7 @@ PolygonCollider2D:
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 2d09ff8d2b8284144abd4681d79de936, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -1337,6 +1336,37 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 962207655}
   m_CullTransparentMesh: 1
+--- !u!1 &1179927655
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1179927656}
+  m_Layer: 0
+  m_Name: GroundCheck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1179927656
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1179927655}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.0033333302, y: -0.24999997, z: -0.017633282}
+  m_LocalScale: {x: 0.33333334, y: 0.33333334, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1462418939}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1329808243
 GameObject:
   m_ObjectHideFlags: 0
@@ -1435,7 +1465,7 @@ PolygonCollider2D:
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 2d09ff8d2b8284144abd4681d79de936, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -1741,7 +1771,8 @@ Transform:
   m_LocalPosition: {x: -3.2, y: -1.32, z: 0}
   m_LocalScale: {x: 3, y: 3, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 1179927656}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!50 &1462418941
@@ -1769,7 +1800,7 @@ Rigidbody2D:
     m_Bits: 0
   m_Interpolate: 1
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 4
 --- !u!114 &1462418942
 MonoBehaviour:
@@ -1815,6 +1846,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 5
   deathDelay: 0.3
+  groundCheck: {fileID: 1179927656}
+  groundLayer:
+    serializedVersion: 2
+    m_Bits: 64
+  checkRadius: 0.2
+  fallMultiplier: 2.5
 --- !u!70 &1462418944
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -2068,7 +2105,7 @@ Transform:
   m_GameObject: {fileID: 1694087972}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.662, y: -4.38, z: 0}
+  m_LocalPosition: {x: -0.662, y: -5.84, z: 0}
   m_LocalScale: {x: 26.83891, y: 0.67025554, z: 0.91161}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2146,7 +2183,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 7
 --- !u!1 &2071327059
 GameObject:
   m_ObjectHideFlags: 0

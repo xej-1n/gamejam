@@ -2,12 +2,10 @@ using UnityEngine;
 
 public class DraggableBlock : MonoBehaviour
 {
-    [Header("회전 속도 (R키를 누르고 있는 동안 도는 속도)")]
-    public float rotationSpeed = 150f;
-
     private bool isDragging = false;
     private Vector3 offset;
     private Collider2D[] colliders;
+    private int currentAngle = 0;
 
     void Start()
     {
@@ -23,9 +21,10 @@ public class DraggableBlock : MonoBehaviour
             mousePos.z = transform.position.z;
             transform.position = mousePos + offset;
 
-            if (Input.GetKey(KeyCode.R))
+            if (Input.GetKeyDown(KeyCode.R))
             {
-                transform.Rotate(0, 0, rotationSpeed * Time.deltaTime);
+                currentAngle = (currentAngle + 90) % 360;
+                transform.rotation = Quaternion.Euler(0, 0, currentAngle);
             }
         }
     }
@@ -37,12 +36,18 @@ public class DraggableBlock : MonoBehaviour
         mousePos.z = transform.position.z;
         offset = transform.position - mousePos;
         SetTriggers(true);
+
+        PlayerController player = FindFirstObjectByType<PlayerController>();
+        if (player != null) player.SetHoldingBlock(true);
     }
 
     void OnMouseUp()
     {
         isDragging = false;
         SetTriggers(false);
+
+        PlayerController player = FindFirstObjectByType<PlayerController>();
+        if (player != null) player.SetHoldingBlock(false);
     }
 
     private void SetTriggers(bool state)
