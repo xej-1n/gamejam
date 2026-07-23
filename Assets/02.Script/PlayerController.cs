@@ -97,21 +97,19 @@ public class PlayerController : MonoBehaviour
             return;
         }
 
-
         if (isGrounded)
         {
             rb.linearVelocity = new Vector2(moveInput.x * moveSpeed, rb.linearVelocity.y);
         }
-
         else if (isSteepSlope)
         {
             if (rb.linearVelocity.y < 0)
             {
                 rb.linearVelocity += Vector2.up * Physics2D.gravity.y * (fallMultiplier - 1f) * Time.fixedDeltaTime;
             }
-            rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
+        
+            rb.linearVelocity = new Vector2(moveInput.x * moveSpeed, rb.linearVelocity.y);
         }
-
         else
         {
             if (rb.linearVelocity.y < 0)
