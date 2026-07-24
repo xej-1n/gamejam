@@ -8,6 +8,7 @@ TagManager:
   - Die
   - Wall
   - Rock
+  - Box
   layers:
   - Default
   - TransparentFX
