@@ -52,9 +52,15 @@ public class DraggableBlock : MonoBehaviour
 
     private void SetTriggers(bool state)
     {
-        foreach (Collider2D col in colliders)
+        if (colliders != null)
         {
-            col.isTrigger = state;
+            foreach (Collider2D col in colliders)
+            {
+                if (col != null)
+                {
+                    col.isTrigger = state;
+                }
+            }
         }
     }
 }
