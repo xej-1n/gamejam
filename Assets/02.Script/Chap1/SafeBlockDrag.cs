@@ -88,17 +88,19 @@ public class SafeBlockDrag : MonoBehaviour
     }
     private bool IsOverlappingWithOther()
     {
-        ContactFilter2D filter = new ContactFilter2D();
-        filter.useTriggers = false;
-
-        Collider2D[] results = new Collider2D[10];
-
         foreach (Collider2D col in colliders)
         {
-            int count = col.Overlap(filter, results);
-            for (int i = 0; i < count; i++)
+            Bounds bounds = col.bounds;
+
+            Vector2 checkSize = new Vector2(bounds.size.x * 0.8f, bounds.size.y * 0.8f);
+
+            Collider2D[] results = Physics2D.OverlapBoxAll(bounds.center, checkSize, 0f);
+
+            foreach (Collider2D hit in results)
             {
-                if (results[i].CompareTag("Player") || results[i].CompareTag("Ground"))
+                if (hit.gameObject == gameObject || hit.transform.IsChildOf(transform)) continue;
+
+                if (hit.CompareTag("Player") || hit.CompareTag("Ground"))
                 {
                     return true;
                 }
