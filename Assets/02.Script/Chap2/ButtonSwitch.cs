@@ -31,21 +31,33 @@ public class ButtonSwitch : MonoBehaviour
 
             if (other.CompareTag("Box"))
             {
+                SpriteRenderer[] renderers = other.GetComponentsInChildren<SpriteRenderer>();
+                foreach (SpriteRenderer sr in renderers)
+                {
+                    if (sr != null)
+                    {
+                        Color c = sr.color;
+                        c.a = 1f;
+                        sr.color = c;
+                    }
+                }
+
+                Collider2D[] boxColliders = other.GetComponentsInChildren<Collider2D>();
+                foreach (Collider2D col in boxColliders)
+                {
+                    if (col != null) col.isTrigger = false;
+                }
+                other.transform.position = new Vector3(transform.position.x, other.transform.position.y, other.transform.position.z);
                 MonoBehaviour dragScript = other.GetComponent<SafeBlockDrag>();
                 if (dragScript == null)
                 {
                     dragScript = other.GetComponent("DraggableBlock") as MonoBehaviour;
                 }
+
                 if (dragScript != null)
                 {
                     Destroy(dragScript);
                 }
-                Collider2D[] boxColliders = other.GetComponentsInChildren<Collider2D>();
-                foreach (Collider2D col in boxColliders)
-                {
-                    col.isTrigger = false;
-                }
-                other.transform.position = new Vector3(transform.position.x, other.transform.position.y, other.transform.position.z);
             }
         }
     }
