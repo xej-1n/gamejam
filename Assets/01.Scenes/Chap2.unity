@@ -2223,7 +2223,7 @@ GameObject:
   - component: {fileID: 1262417787}
   - component: {fileID: 1262417786}
   - component: {fileID: 1262417788}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
