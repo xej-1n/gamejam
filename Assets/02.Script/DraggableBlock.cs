@@ -61,6 +61,6 @@ public class DraggableBlock : MonoBehaviour
                     col.isTrigger = state;
                 }
             }
-        }
+        }   
     }
 }
